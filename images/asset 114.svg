@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 29 29" role="img">
+								<polyline points="17.7,24.9 6.1,24.9 6.1,4.1 18.4,4.1 22.9,8.6 22.9,17.1"/>
+								<polygon class="fill" points="17.7,4.1 17.7,9.4 22.9,9.4 22.9,8.6 18.4,4.1"/>
+								<circle class="fill" cx="11.4" cy="9.9" r="1.7"/>
+								<polygon class="fill" points="12.9,13.3 15.9,17.3 17.6,14.9 20.6,19.1 8.8,19.1"/>
+								<polyline points="25.6,23.4 22.9,20.7 20.2,23.4 "/>
+								<line x1="22.9" y1="20.7" x2="22.9" y2="28.4"/>
+							</svg>
